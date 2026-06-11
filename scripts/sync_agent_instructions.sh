@@ -1,6 +1,5 @@
 #!/bin/bash
 # Sync CLAUDE.md to agent-specific instruction files
-#
 # KairosChain uses CLAUDE.md as the canonical source for development guidelines.
 # This script copies it to equivalent files for other AI coding tools.
 #
