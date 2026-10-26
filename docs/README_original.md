@@ -2,7 +2,7 @@
 
 **A Meta Ledger for Recording AI Skill Evolution**
 
-> 📖 [日本語版 README はこちら (Japanese README)](README_jp.md)
+> 📖 [日本語版 README はこちら (Japanese README)](../README_jp.md)
 
 KairosChain is a Model Context Protocol (MCP) server that records the evolution of AI capabilities on a private blockchain. It combines Pure Skills design (Ruby DSL/AST) with immutable ledger technology, enabling AI agents to have auditable, evolvable, and self-referential skill definitions.
 
@@ -76,7 +76,7 @@ Instead, we achieve: **Evolvable but not gameable systems**.
 
 ## Architecture
 
-![KairosChain Layered Architecture](docs/kairoschain_linkedin_diagram.png)
+![KairosChain Layered Architecture](kairoschain_linkedin_diagram.png)
 
 *Figure: KairosChain's legal-system-inspired layered architecture for AI skill management*
 
@@ -1105,7 +1105,7 @@ When running in HTTP mode, KairosChain provides a built-in browser-based admin U
 
 #### Design Philosophy
 
-The admin UI is intentionally minimal. It is a **Phase 1 management tool** (see [MCP-to-SaaS Development Workflow](KairosChain_mcp_server/knowledge/mcp_to_saas_development_workflow/mcp_to_saas_development_workflow.md)). For richer UIs, build a custom SaaS frontend that consumes the Backend API and MCP tools.
+The admin UI is intentionally minimal. It is a **Phase 1 management tool** (see [MCP-to-SaaS Development Workflow](../KairosChain_mcp_server/knowledge/mcp_to_saas_development_workflow/mcp_to_saas_development_workflow.md)). For richer UIs, build a custom SaaS frontend that consumes the Backend API and MCP tools.
 
 ---
 
@@ -2173,7 +2173,7 @@ A future vision for KairosChain: multiple KairosChain MCP servers communicating 
 4. Distributed consensus mechanism
 5. Distributed L0 governance
 
-For detailed vision document, see: [Distributed KairosChain Network Vision](docs/distributed_kairoschain_vision_20260128_en.md)
+For detailed vision document, see: [Distributed KairosChain Network Vision](distributed_kairoschain_vision_20260128_en.md)
 
 ---
 
