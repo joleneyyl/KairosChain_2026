@@ -76,7 +76,7 @@ KairosChainは**Minimum-Nomic**を実装します — 以下のようなシス�
 
 ## アーキテクチャ
 
-![KairosChain レイヤーアーキテクチャ](docs/kairoschain_linkedin_diagram.png)
+![KairosChain レイヤーアーキテクチャ](kairoschain_linkedin_diagram.png)
 
 *図：KairosChainの法制度に着想を得たAIスキル管理のためのレイヤーアーキテクチャ*
 
@@ -1089,7 +1089,7 @@ HTTPモードで実行中の場合、KairosChainは`/admin`に組み込みのブ
 
 #### 設計思想
 
-管理者UIは意図的にミニマルです。これは**Phase 1の管理ツール**です（[MCP-to-SaaS開発ワークフロー](KairosChain_mcp_server/knowledge/mcp_to_saas_development_workflow/mcp_to_saas_development_workflow.md)を参照）。より高機能なUIが必要な場合は、Backend APIとMCPツールを利用するカスタムSaaSフロントエンドを構築してください。
+管理者UIは意図的にミニマルです。これは**Phase 1の管理ツール**です（[MCP-to-SaaS開発ワークフロー](../KairosChain_mcp_server/knowledge/mcp_to_saas_development_workflow/mcp_to_saas_development_workflow.md)を参照）。より高機能なUIが必要な場合は、Backend APIとMCPツールを利用するカスタムSaaSフロントエンドを構築してください。
 
 ---
 
@@ -2157,7 +2157,7 @@ KairosChainの将来構想：複数のKairosChain MCPサーバーがインター
 4. 分散合意メカニズム
 5. L0分散ガバナンス
 
-詳細なビジョンドキュメント: [分散KairosChainネットワーク構想](docs/distributed_kairoschain_vision_20260128_jp.md)
+詳細なビジョンドキュメント: [分散KairosChainネットワーク構想](distributed_kairoschain_vision_20260128_jp.md)
 
 ---
 
@@ -3782,7 +3782,7 @@ ProjectA/                           ProjectB/
 
 ## ライセンス
 
-[LICENSE](./LICENSE)ファイルを参照してください。
+[LICENSE](../LICENSE)ファイルを参照してください。
 
 ---
 
