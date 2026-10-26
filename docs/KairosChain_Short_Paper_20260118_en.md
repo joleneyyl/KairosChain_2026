@@ -331,7 +331,7 @@ This experiment demonstrates several key properties of KairosChain:
 
 4. **Meta-Demonstration**: This is not merely documentation generation—it is a system recording knowledge about improving itself within its own infrastructure. The paper you are reading was itself improved using this workflow.
 
-The full demonstration log is available at: [cursor_kairoschain_demo_log_20260118_en.md](docs/KairosChain_Short_Paper_20260118_en.md/cursor_kairoschain_demo_log_20260118_en.md)
+The full demonstration log is available at: [cursor_kairoschain_demo_log_20260118_en.md](cursor_kairoschain_demo_log_20260118_en.md)
 
 Source code: [https://github.com/masaomi/KairosChain_2026](https://github.com/masaomi/KairosChain_2026)
 
