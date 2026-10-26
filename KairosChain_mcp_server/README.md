@@ -114,4 +114,4 @@ University of Zurich / Functional Genomics Center Zurich
 
 ## License
 
-[MIT](LICENSE)
+[MIT](../LICENSE)
